@@ -40,32 +40,32 @@ function App() {
       btnLink: "#"
     }
   ]
-  const team = [
-    {
-      image: "assets/circle.png",
-      heading: 'Adrian Thomson',
-      position: 'CEO & Founder',
-      text: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.'
-    },
-    {
-      image: "assets/circle.png",
-      heading: 'Narate Ketram',
-      position: 'Creative Director',
-      text: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.'
-    },
-    {
-      image: "assets/circle.png",
-      heading: 'Fernando Comet',
-      position: 'CEO & Founder',
-      text: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.'
-    },
-    {
-      image: "assets/circle.png",
-      heading: 'Adedayo saheed',
-      position: 'CEO & Founder',
-      text: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.'
-    }
-  ]
+  // const team = [
+  //   {
+  //     image: "assets/circle.png",
+  //     heading: 'Adrian Thomson',
+  //     position: 'CEO & Founder',
+  //     text: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.'
+  //   },
+  //   {
+  //     image: "assets/circle.png",
+  //     heading: 'Narate Ketram',
+  //     position: 'Creative Director',
+  //     text: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.'
+  //   },
+  //   {
+  //     image: "assets/circle.png",
+  //     heading: 'Fernando Comet',
+  //     position: 'CEO & Founder',
+  //     text: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.'
+  //   },
+  //   {
+  //     image: "assets/circle.png",
+  //     heading: 'Adedayo saheed',
+  //     position: 'CEO & Founder',
+  //     text: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry.'
+  //   }
+  // ]
   const pricing = [
     {
       pricingHeader: 'Basic',
