@@ -1,9 +1,10 @@
 @media only screen and (max-width:870px){
+    
     .portfolio-items img{
         width: 290px;
     }
     .service-items-block{
-        width: 50%;
+        width: 100%;
     }
     .service-items-block-content{
         padding: 35px 0 20px;
@@ -39,6 +40,9 @@
         height: 350px;
         background-position: left;
         background-size: cover;
+    }
+    div#service {
+        width: 50%;
     }
     .container{
         width: 85%;
@@ -185,4 +189,9 @@
     .designer-section img {
         width: 180px;
     }
+}
+@media only screen and (max-width: 500px){
+div#service {
+    width: 100%;
+}
 }

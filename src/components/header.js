@@ -18,7 +18,21 @@ export default function Header () {
                         <li><a href="#contact">Contact</a></li>                        
                     </ul>
                 </div>
-                
+                <div class="burger-menu-icon">
+                    <img src="assets/menu (1).png" alt="icon"/>
+                </div>
+                <div class="burger-menu-block">
+                    <div class="burger-menu-block-items">
+                        <ul>
+                            <li><a href="#home">Home</a></li>
+                            <li><a href="#service">Service</a></li>
+                            <li><a href="#portfolio">Portfolio</a></li>
+                            <li><a href="#team">Team</a></li>
+                            <li><a href="#blog">Blog</a></li>
+                            <li><a href="#contact">Contact</a></li>                        
+                        </ul>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
